@@ -1,0 +1,15 @@
+h1 {color: green;}
+.larger-image {
+  height: 360px;
+  width: 360px;
+}
+p {color: white;}
+
+.thick-green-border{
+  border-color: green;
+  border-width: 20px;
+  border-style: solid;
+}
+body {
+background-image: url(http://3.bp.blogspot.com/-sPqU4JjcUmg/UAzBFMszndI/AAAAAAAAB3U/w57zbEGIN48/s1600/the+legend+of+zelda+triforce+wallpaper+background+desktop+nintendo+game.jpg)
+}
